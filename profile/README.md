@@ -18,7 +18,7 @@
 
 ## 🏛️ About Us
 
-The **Data Analytics Unit (DAU)** is a specialized technical team within the **Digital Enforcement and Intelligence Branch (DEIB)** of the **Competition Bureau Canada**.
+The **Data Analytics Unit (DAU)** is a specialized technical team within the **Digital Enforcement and Intelligence Branch (DEIB)** of the **Competition Bureau of Canada**.
 
 ### Our Ecosystem
 
